@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{64939E71-5CBF-4FC9-9B8E-6DAF4D5D0B64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartOrcamento/Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="SmartOrcamento/Pages/Index.cshtml" Line="185" Column="1" />
+      <File FileName="SmartOrcamento/Pages/Shared/_Layout.cshtml" Line="97" Column="30" />
+      <File FileName="SmartOrcamento/Pages/Error.cshtml.cs" />
+      <File FileName="SmartOrcamento/Pages/Orcamento.cshtml" />
+      <File FileName="SmartOrcamento/Pages/NovoOrcamento.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartOrcamento" expanded="True">
+            <Node name="SmartOrcamento" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SmartOrcamento PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
